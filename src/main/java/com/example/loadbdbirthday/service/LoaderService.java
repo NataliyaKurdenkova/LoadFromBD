@@ -17,7 +17,7 @@ import java.util.List;
 
 @Service
 public class LoaderService {
-    public static final String DATE_XLSX = "src/main/resources/files/date.xlsx";
+    public static final String DATE_XLSX = "src/main/resources/files/file.xlsx";
     public static final String NO_PHOTO_JPG = "src/main/resources/photo/noPhoto.jpg";
     private static ExcelRepository excelRepository;
 
